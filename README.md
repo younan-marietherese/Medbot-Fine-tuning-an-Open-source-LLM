@@ -3,7 +3,7 @@ Ranked Top 2 in the LLM Fine-Tuning Challenge (Zaka AI – August 2025)
 This project focuses on building MedBot, a medical question-answering chatbot, by fine-tuning large language models using LoRA and 4-bit quantization with Hugging Face Transformers.
 
 ## Project Summary
-The goal was to fine-tune a large language model (LLM) on a medical dataset to answer patient-related questions efficiently — all while working under tight GPU and budget constraints.
+The goal was to fine-tune a large language model (LLM) on a medical dataset to answer patient-related questions efficiently, all while working under tight GPU and budget constraints.
 
 We fine-tuned:
 
